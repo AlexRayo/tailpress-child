@@ -1,0 +1,8 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* ============================================ */
+.container {
+    @apply px-4 xl:w-10/12 mx-auto
+}
